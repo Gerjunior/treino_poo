@@ -1,2 +1,2 @@
 Projeto criado para fins de estudo. 
-Nele são aplicados diversos conceitos de POO.
+Nele são aplicados diversos conceitos de POO e Clean Code.
