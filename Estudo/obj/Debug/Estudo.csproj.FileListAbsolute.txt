@@ -1,0 +1,7 @@
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\bin\Debug\Estudo.exe.config
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\bin\Debug\Estudo.exe
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\bin\Debug\Estudo.pdb
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\obj\Debug\Estudo.csprojAssemblyReference.cache
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\obj\Debug\Estudo.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\obj\Debug\Estudo.exe
+C:\Users\geraldo.silva\source\repos\Estudo\Estudo\obj\Debug\Estudo.pdb
